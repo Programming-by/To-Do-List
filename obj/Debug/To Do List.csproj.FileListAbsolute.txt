@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Login\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Login\obj\Debug\To Do List.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Source\Repos\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Source\Repos\Login\obj\Debug\To Do List.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Login\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Login\obj\Debug\Login.exe
+C:\Users\User\Source\Repos\Login\obj\Debug\Login.pdb
+C:\Users\User\Source\Repos\Login\bin\Debug\Login.exe.config
+C:\Users\User\Source\Repos\Login\bin\Debug\Login.exe
+C:\Users\User\Source\Repos\Login\bin\Debug\Login.pdb
