@@ -47,6 +47,10 @@ namespace Login
         private void btnDelete_Click(object sender, EventArgs e)
         {
          
+            if (checkedListBox1.Items.Count == 0)
+            {
+                return;
+            }
                 checkedListBox1.Items.RemoveAt(0);
            
         }

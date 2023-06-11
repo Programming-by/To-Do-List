@@ -61,7 +61,7 @@
             "Eating",
             "Swimming",
             "Washing Dishes"});
-            this.checkedListBox1.Location = new System.Drawing.Point(83, 29);
+            this.checkedListBox1.Location = new System.Drawing.Point(67, 34);
             this.checkedListBox1.Name = "checkedListBox1";
             this.checkedListBox1.Size = new System.Drawing.Size(574, 123);
             this.checkedListBox1.TabIndex = 1;
@@ -86,7 +86,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(83, 276);
+            this.btnDelete.Location = new System.Drawing.Point(67, 277);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(120, 44);
             this.btnDelete.TabIndex = 4;
@@ -96,7 +96,7 @@
             // 
             // btnCheck
             // 
-            this.btnCheck.Location = new System.Drawing.Point(335, 276);
+            this.btnCheck.Location = new System.Drawing.Point(335, 277);
             this.btnCheck.Name = "btnCheck";
             this.btnCheck.Size = new System.Drawing.Size(120, 44);
             this.btnCheck.TabIndex = 5;
@@ -106,7 +106,7 @@
             // 
             // btnUncheck
             // 
-            this.btnUncheck.Location = new System.Drawing.Point(335, 360);
+            this.btnUncheck.Location = new System.Drawing.Point(335, 341);
             this.btnUncheck.Name = "btnUncheck";
             this.btnUncheck.Size = new System.Drawing.Size(120, 44);
             this.btnUncheck.TabIndex = 6;
@@ -137,7 +137,7 @@
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.checkedListBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "To Do List";
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
